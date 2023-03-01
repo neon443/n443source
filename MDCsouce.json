@@ -37,14 +37,27 @@
 			"permissions": [
 				{
 					"type": "location",
-					"usageDescription": "Allows the app to run in the background to maintain tweak applications."
+					"usageDescription": "Allows Cowabunga to run in the background to maintain tweak applications."
 				}
 				{
-					"type": "background-fetch",
-					"usageDescription": "Allows the app to check for updates."
+					"type": "network",
+					"usageDescription": "Allows Cowabunga to check for updates, and to browse themes, custom passcodes, custom locks and custom UI sounds."
 				}
 			],
-
+			
+			"news": [
+				{
+					"title": "MacDirtyCow Now Available!",
+					"identifier": "mdcsource-release",
+					"caption": "The source for all your MDC apps. - for release 1 i added cowabunga",
+					"date": "2023-03-01",
+					"tintColor": "8A28F7",
+					"imageURL": "",
+					"appID": "com.leemin.Cowabunga",
+					"url": "https://github.com/puffycheezball8/MacDirtyCow-AltSource",
+					"notify": false
+				}
+			]
         }
     ]
 }
