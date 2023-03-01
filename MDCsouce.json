@@ -1,7 +1,7 @@
 {
 	"name": "MacDirtyCow AltSource",
 	"identifier": "com.neon.MDCsource",
-	"sourceURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/MDCsouce.json"
+	"sourceURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/MDCsouce.json",
 	"apps": [
 		{
 			"name": "Cowabunga",
@@ -20,7 +20,8 @@
 					"versionDate": "2023-02-28",
 					"versionDescription": "Added creating operations. Fixed crash when a custom operation corrupts - hopefully will figure out cause for corruption. Fixed bootloop with regard to resetting icon cache. Please update, this is an important fix. Not only does it stop a bootloop, but it should hopefully increase reliability of applying.",
 					"downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
-					"size": 21849921,					
+					"size": "21849921",
+				}
 			]
 			
 		"screenshotURLs": [
