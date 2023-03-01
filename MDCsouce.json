@@ -6,21 +6,26 @@
         {
             "beta": false,
             "name": "Cowabunga",
-            "bundleIdentifier": "com.flyinghead.Flycast",
-            "developerName": "Flyinghead",
+            "bundleIdentifier": "com.leemin.Cowabunga",
+            "developerName": "leminlimez",
             "subtitle": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689",
-            "version": "v2.1",
-            "versionDate": "2023-02-16T11:24:00+01:00",
-            "versionDescription": "Full framebuffer emulation and texture upscaling on iOS.",
-            "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/latest/download/Cowabunga.ipa",
-            "localizedDescription": "Flycast is a Dreamcast, Naomi, Naomi 2 and Atomiswave emulator.",
-            "iconURL": "https://github.com/flyinghead/flycast/raw/master/shell/linux/flycast.png",
+            "version": "v8.1.1",
+            "versionDate": "2023-02-18T12:00:00+00:00",
+            "versionDescription": "Added creating operations. Fixed crash when a custom operation corrupts - hopefully will figure out cause for corruption. Fixed bootloop with regard to resetting icon cache. Please update, this is an important fix. Not only does it stop a bootloop, but it should hopefully increase reliability of applying.",
+            "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
+            "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689",
+            "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
             "tintColor": "9b54fd",
-            "size": 14904310,
+            "size": 45c812,
             "screenshotURLs": [
-                "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot1.png",
-                "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot2.png",
-                "https://github.com/flyinghead/flycast/raw/master/shell/imgs/screenshot3.png"
+                "https://github.com/puffycheezball8/MacDirtyCow-AltSource/blob/main/Cowabunga/1.png",
+                "https://github.com/puffycheezball8/MacDirtyCow-AltSource/blob/main/Cowabunga/2.png",
+                "https://github.com/puffycheezball8/MacDirtyCow-AltSource/blob/main/Cowabunga/3.png",
+                "https://github.com/puffycheezball8/MacDirtyCow-AltSource/blob/main/Cowabunga/4.png",
+                "https://github.com/puffycheezball8/MacDirtyCow-AltSource/blob/main/Cowabunga/5.png",
+                "https://github.com/puffycheezball8/MacDirtyCow-AltSource/blob/main/Cowabunga/6.png",
+                "https://github.com/puffycheezball8/MacDirtyCow-AltSource/blob/main/Cowabunga/7.png",
+                "https://github.com/puffycheezball8/MacDirtyCow-AltSource/blob/main/Cowabunga/8.png"
             ]
         }
     ]
