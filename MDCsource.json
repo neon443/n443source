@@ -7,17 +7,16 @@
 		"beta": false,
 		"bundleIdentifier": "com.leemin.Cowabunga",
 		"developerName": "leminlimez",
-		"subtitle": "A MDC toolbox app",
+		"subtitle": "A MacDirtyCow toolbox app",
 		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
 		"tintColor": "#45c812",
-		"localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689."
 		"minOSVersion": "15.0",
 		"maxOSVersion": "16.1.2",
 
 		"versions": [{
 			"version": "8.1.1",
 			"versionDate": "2023-02-28",
-			"versionDescription": "Added creating operations. Fixed crash when a custom operation corrupts - hopefully will figure out cause for corruption. Fixed bootloop with regard to resetting icon cache. Please update, this is an important fix. Not only does it stop a bootloop, but it should hopefully increase reliability of applying.",
+			"localizedDescription": "Added creating operations. Fixed crash when a custom operation corrupts - hopefully will figure out cause for corruption. Fixed bootloop with regard to resetting icon cache. Please update, this is an important fix. Not only does it stop a bootloop, but it should hopefully increase reliability of applying.",
 			"downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
 			"size": "21849921"
 		}],
