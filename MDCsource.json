@@ -9,7 +9,67 @@
       "developerName": "leminlimez",
       "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
       "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
-      "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
+      "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.Features
+
+Running in the background to keep some changes from reverting
+
+From running tests, battery loss is negligible (~1% per day on frequent), but that may vary
+Springboard
+
+Hide dock
+Hide home bar
+Hide folder backgrounds
+Disable folder background blur
+Disable app switcher blur
+Hide CC Module Backgrounds
+Hide Notification Banner Background
+App Icon Themes
+
+Importing folders of app icons
+No WebClips!
+Disclaimer: Some apps may look highly compressed. This may be fixed in the future. You could use shortcuts and disable app banner for those apps instead.
+Audio
+
+Custom sound effects
+Upload your own sounds (nearly every audio format allowed!)
+Max upload audio size of 150 kb, but will not apply for audio if too big!
+Passcode
+
+Customize passcode keys
+Import passcode keys files (.passthm) from TrollTools
+Locks
+
+Importing locks from TrollLock
+Custom number of frames + custom animation speeds (see below)
+Explore
+
+Find and download themes for passcodes, locks, and app icons!
+If you would like to submit your own works, please join the discord
+Status Bar
+
+Change carrier name
+Change time text
+Change breadcrumb text
+Hide many icons in the status bar
+Other Tools
+
+Custom Fonts
+Lock Screen Footnote
+Notification Badges Changer (iOS 14-15 ONLY)
+Springboard Colors
+Misc
+
+Disable shortcut banners
+Turn shortcuts into app clips
+Supervise Device Warning: Use the features below at your own risk!
+Change system version (shows in settings, iOS 15+)
+Enable iPhone X Gestures
+Enable Dynamic Island (iOS 16+)
+Extra Tools
+
+Lock Screen Footnote
+No Lock On Respring
+Numeric Wi-Fi Strength",
       "name": "Cowabunga",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/1.png",
