@@ -1,56 +1,44 @@
 {
-	"name": "MacDirtyCow AltSource",
-	"identifier": "com.neon.MDCsource",
-	"sourceURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/MDCsouce.json",
-	"apps": [{
-		"name": "Cowabunga",
-		"beta": false,
-		"bundleIdentifier": "com.leemin.Cowabunga",
-		"developerName": "leminlimez",
-		"subtitle": "A MacDirtyCow toolbox app",
-		"localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
-		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
-		"tintColor": "#45c812",
-		"minOSVersion": "15.0",
-		"maxOSVersion": "16.1.2",
-
-		"versions": [{
-			"version": "8.1.1",
-			"versionDate": "2023-02-28",
-			"localizedDescription": "Added creating operations. Fixed crash when a custom operation corrupts - hopefully will figure out cause for corruption. Fixed bootloop with regard to resetting icon cache. Please update, this is an important fix. Not only does it stop a bootloop, but it should hopefully increase reliability of applying.",
-			"downloadURL": "iphone:https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
-			"size": "21849921"
-		}],
-
-		"screenshotURLs": [
-			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/1.png",
-			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/2.png",
-			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/3.png",
-			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/4.png",
-			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/5.png",
-			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/6.png",
-			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/7.png",
-			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/8.png"
-		],
-
-		"permissions": [{
-			"type": "location",
-			"usageDescription": "Allows Cowabunga to run in the background to maintain tweak applications."
-		} ,{
-			"type": "network",
-			"usageDescription": "Allows Cowabunga to check for updates, and to browse themes, custom passcodes, custom locks and custom UI sounds."
-		}],
-
-		"news": [{
-			"title": "MacDirtyCow Now Available!",
-			"identifier": "mdcsource-release",
-			"caption": "The source for all your MDC apps. - for release 1 i added cowabunga",
-			"date": "2023-03-01",
-			"tintColor": "8A28F7",
-			"imageURL": "",
-			"appID": "com.leemin.Cowabunga",
-			"url": "https://github.com/puffycheezball8/MacDirtyCow-AltSource",
-			"notify": false
-		}]
-	}]
+  "name": "MacDirtyCow AltSource",
+  "identifier": "com.neon.MDCsource",
+  "sourceURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/MDCsouce.json",
+  "apps": [
+    {
+      "beta": false,
+      "bundleIdentifier": "com.leemin.Cowabunga",
+      "developerName": "leminlimez",
+      "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
+      "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+      "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
+      "name": "Cowabunga",
+      "screenshotURLs": [
+        "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/1.png",
+        "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/2.png",
+        "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/3.png",
+        "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/4.png",
+        "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/5.png",
+        "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/6.png",
+        "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/7.png",
+        "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/8.png"
+      ],
+      "size": 2184796,
+      "subtitle": "A jailed MDC Toolbox app",
+      "tintColor": "45c812",
+      "version": "8.1.1",
+      "versionDate": "2023-03-2T14:00:00",
+      "versionDescription": "Added creating operations. Fixed crash when a custom operation corrupts - hopefully will figure out cause for corruption. Fixed bootloop with regard to resetting icon cache. Please update, this is an important fix. Not only does it stop a bootloop, but it should hopefully increase reliability of applying."
+    }
+  ],
+  "news": [
+    {
+      "appID": "com.leemin.cowabunga",
+      "caption": "Cowabunga 8.1.1 - UPDATE NOW TO PREVENT BOOTLOOP",
+      "date": "2023-03-02",
+      "identifier": "Cowabunga-8.1.1-available",
+      "imageURL": "https://user-images.githubusercontent.com/705880/65604130-c1ec0800-df5b-11e9-8150-7657c474e3c3.png",
+      "notify": false,
+      "tintColor": "54c812",
+      "title": "Cowabunga update Available"
+    }
+  ]
 }
