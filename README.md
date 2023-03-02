@@ -15,3 +15,5 @@ https://github.com/leminlimez/Cowabunga
 ### ResSet16
 
 ### DynamicCow
+Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit.
+Note: iOS 16 is only supported because older ios (15/14/13) lack the system resources to run the island.
