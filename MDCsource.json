@@ -18,7 +18,7 @@
 			"version": "8.1.1",
 			"versionDate": "2023-02-28",
 			"localizedDescription": "Added creating operations. Fixed crash when a custom operation corrupts - hopefully will figure out cause for corruption. Fixed bootloop with regard to resetting icon cache. Please update, this is an important fix. Not only does it stop a bootloop, but it should hopefully increase reliability of applying.",
-			"downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
+			"downloadURL": "iphone:https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
 			"size": "21849921"
 		}],
 
