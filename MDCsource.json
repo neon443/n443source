@@ -4,13 +4,14 @@
   "sourceURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/MDCsouce.json",
   "apps": [
     {
+      "name": "Cowabunga",
       "beta": false,
       "bundleIdentifier": "com.leemin.Cowabunga",
       "developerName": "leminlimez",
       "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
       "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
-      "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 & 16.0-16.1.2 using CVE-2022-46689. https://github.com/leminlimez/Cowabunga",
-      "name": "Cowabunga",
+      "subtitle": "A jailed MDC Toolbox app",
+      "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 & 16.0-16.1.2 using CVE-2022-46689.",
       "screenshotURLs": [
         "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/1.png",
         "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/2.png",
@@ -21,12 +22,28 @@
         "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/7.png",
         "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/8.png"
       ],
-      "size": 2184796,
-      "subtitle": "A jailed MDC Toolbox app",
+      "size": 21849921,
       "tintColor": "45c812",
       "version": "8.1.1",
       "versionDate": "2023-03-2T14:00:00",
       "versionDescription": "Added creating operations. Fixed crash when a custom operation corrupts - hopefully will figure out cause for corruption. Fixed bootloop with regard to resetting icon cache. Please update, this is an important fix. Not only does it stop a bootloop, but it should hopefully increase reliability of applying."
+    }
+    {
+      "name": "WDBRemoveThreeAppLimit",
+      "beta": false,
+      "bundleIdentifier": "com.worthdoingbadly.WDBRemoveThreeAppLimit",
+      "developerName": "zhuowei",
+      "downloadURL": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/WDBRemoveThreeAppLimit/icon.png",
+      "subtitle": "Remove the 3 app limit.",
+      "localizedDescription": "Removes the 3 app limit imposed on free apple IDs. Only needs to be applied once per boot.",
+      "screenshotURLs": [
+      ],
+      "size": 32038,
+      "tintColor": "000000",
+      "version": "1.0",
+      "versionDate": "2023-03-2T14:00:00",
+      "versionDescription": "First release"
     }
   ],
   "news": [
