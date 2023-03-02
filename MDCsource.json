@@ -27,7 +27,7 @@
       "version": "8.1.1",
       "versionDate": "2023-03-2T14:00:00",
       "versionDescription": "Added creating operations. Fixed crash when a custom operation corrupts - hopefully will figure out cause for corruption. Fixed bootloop with regard to resetting icon cache. Please update, this is an important fix. Not only does it stop a bootloop, but it should hopefully increase reliability of applying."
-    }
+    },
     {
       "name": "WDBRemoveThreeAppLimit",
       "beta": false,
