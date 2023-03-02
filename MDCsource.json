@@ -1,0 +1,55 @@
+{
+	"name": "MacDirtyCow AltSource",
+	"identifier": "com.neon.MDCsource",
+	"sourceURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/MDCsouce.json",
+	"apps": [{
+		"name": "Cowabunga",
+		"beta": false,
+		"bundleIdentifier": "com.leemin.Cowabunga",
+		"developerName": "leminlimez",
+		"subtitle": "A MDC toolbox app",
+		"iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+		"tintColor": "#45c812",
+		"minOSVersion": "15.0",
+		"maxOSVersion": "16.1.2",
+
+		"versions": [{
+			"version": "8.1.1",
+			"versionDate": "2023-02-28",
+			"versionDescription": "Added creating operations. Fixed crash when a custom operation corrupts - hopefully will figure out cause for corruption. Fixed bootloop with regard to resetting icon cache. Please update, this is an important fix. Not only does it stop a bootloop, but it should hopefully increase reliability of applying.",
+			"downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
+			"size": "21849921"
+		}],
+
+		"screenshotURLs": [
+			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/1.png",
+			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/2.png",
+			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/3.png",
+			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/4.png",
+			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/5.png",
+			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/6.png",
+			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/7.png",
+			"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/8.png"
+		],
+
+		"permissions": [{
+			"type": "location",
+			"usageDescription": "Allows Cowabunga to run in the background to maintain tweak applications."
+		} ,{
+			"type": "network",
+			"usageDescription": "Allows Cowabunga to check for updates, and to browse themes, custom passcodes, custom locks and custom UI sounds."
+		}],
+
+		"news": [{
+			"title": "MacDirtyCow Now Available!",
+			"identifier": "mdcsource-release",
+			"caption": "The source for all your MDC apps. - for release 1 i added cowabunga",
+			"date": "2023-03-01",
+			"tintColor": "8A28F7",
+			"imageURL": "",
+			"appID": "com.leemin.Cowabunga",
+			"url": "https://github.com/puffycheezball8/MacDirtyCow-AltSource",
+			"notify": false
+		}]
+	}]
+}
