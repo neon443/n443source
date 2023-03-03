@@ -12,7 +12,7 @@
 			"iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/icon.png",
 			"subtitle": "A jailed MDC Toolbox app",
 			"localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 & 16.0-16.1.2 using CVE-2022-46689.",
-			"screenshotURLs": {
+			"screenshotURLs": [
 				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/1.png",
 				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/2.png",
 				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/3.png",
@@ -21,7 +21,7 @@
 				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/6.png",
 				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/7.png",
 				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/8.png"
-			},
+			],
 			"size": 21849921,
 			"tintColor": "#45c812",
 			"version": "8.1.1",
@@ -73,9 +73,9 @@
 			"iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/WDBRemoveThreeAppLimit/icon.png",
 			"subtitle": "Remove the 3 app limit.",
 			"localizedDescription": "Removes the 3 app limit imposed on free apple IDs. Only needs to be applied once per boot.",
-			"screenshotURLs": {
+			"screenshotURLs": [
 				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/WDBRemoveThreeAppLimit/1.png"
-            },
+            ],
 			"size": 32038,
 			"tintColor": "#000000",
 			"version": "1.0",
@@ -91,11 +91,11 @@
 			"iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/DynamicCow/icon.png",
 			"subtitle": "Enable Dynamic Island on iOS 16.0-6.1.2.",
 			"localizedDescription": "Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit. /nThe app now have a Troubleshoot section to restore the plist file. /niOS 15/14/13 are NOT and will never be supported, as this is NOT a tweak. /nIf you have one of the above listed iOS versions, please stay away from it cause it can bootloop your device.",
-			"screenshotURLs": {
+			"screenshotURLs": [
 				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/DynamicCow/1.png",
 				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/DynamicCow/2.png",
 				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/DynamicCow/3.png"
-			},
+			],
 			"size": 915515,
 			"tintColor": "#bad7c8",
 			"version": "1.1",
