@@ -29,20 +29,20 @@
       "versionDescription": "Added creating operations. Fixed crash when a custom operation corrupts - hopefully will figure out cause for corruption. Fixed bootloop with regard to resetting icon cache. Please update, this is an important fix. Not only does it stop a bootloop, but it should hopefully increase reliability of applying."
     },
     {
-      "name": "WDBRemoveThreeAppLimit",
+      "name": "FilzaEscaped",
       "beta": false,
-      "bundleIdentifier": "com.worthdoingbadly.WDBRemoveThreeAppLimit",
-      "developerName": "zhuowei",
-      "downloadURL": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
-      "iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/WDBRemoveThreeAppLimit/icon.png",
-      "subtitle": "Remove the 3 app limit.",
-      "localizedDescription": "Removes the 3 app limit imposed on free apple IDs. Only needs to be applied once per boot.",
-      "screenshotURLs": [
-		"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/WDBRemoveThreeAppLimit/1.png"
-      ],
-      "size": 32038,
-      "tintColor": "#000000",
-      "version": "1.0",
+      "bundleIdentifier": "com.dry05.filzaescaped11-12",
+      "developerName": "dry05",
+      "downloadURL": "https://basvtdevelopments.com/download.php?file=FilzaEscaped16.ipa",
+      "iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/FilzaEscaped/icon.png",
+       "subtitle": "The iOS File Manager with Root Access",
+       "localizedDescription": "The iOS File Manager with Root Access." ,
+       "screenshotURLs": [
+    		"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/FilzaEscaped/1.png"
+       ],
+       "size": 14649688,
+       "tintColor": "#00addc",
+      "version": "0.4",
       "versionDate": "2023-03-2T14:00:00",
       "versionDescription": "First release."
     },
@@ -64,23 +64,43 @@
       "versionDate": "2023-03-2T14:00:00",
       "versionDescription": "The project is still in beta, and there still quite a lot of bugs to fix & enhancements to make."
     },
-    {
-      "name": "FilzaEscaped",
+	{
+      "name": "WDBRemoveThreeAppLimit",
       "beta": false,
-      "bundleIdentifier": "com.dry05.filzaescaped15-16",
-      "developerName": "dry05",
-      "downloadURL": "https://basvtdevelopments.com/download.php?file=FilzaEscaped16.ipa",
-      "iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/FilzaEscaped/icon.png",
-       "subtitle": "The iOS File Manager with Root Access",
-       "localizedDescription": "The iOS File Manager with Root Access." ,
-       "screenshotURLs": [
-    		"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/FilzaEscaped/1.png"
-       ],
-       "size": 14649688,
-       "tintColor": "#00addc",
-      "version": "0.4",
+      "bundleIdentifier": "com.worthdoingbadly.WDBRemoveThreeAppLimit",
+      "developerName": "zhuowei",
+      "downloadURL": "https://github.com/zhuowei/WDBRemoveThreeAppLimit/releases/download/v1.0/WDBRemoveThreeAppLimit-v1.0.ipa",
+      "iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/WDBRemoveThreeAppLimit/icon.png",
+      "subtitle": "Remove the 3 app limit.",
+      "localizedDescription": "Removes the 3 app limit imposed on free apple IDs. Only needs to be applied once per boot.",
+      "screenshotURLs": [
+		"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/WDBRemoveThreeAppLimit/1.png"
+      ],
+      "size": 32038,
+      "tintColor": "#000000",
+      "version": "1.0",
       "versionDate": "2023-03-2T14:00:00",
       "versionDescription": "First release."
+    },
+	{
+      "name": "DynamicCow",
+      "beta": false,
+      "bundleIdentifier": "com.zeph.DynamicCoww",
+      "developerName": "matteozappia",
+      "downloadURL": "https://github.com/matteozappia/DynamicCow/releases/download/v1.1/DynamicCow.ipa",
+      "iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/DynamicCow/icon.png",
+      "subtitle": "Enable Dynamic Island on iOS 16.0-6.1.2.",
+      "localizedDescription": "Enable Dynamic Island on every device that is running iOS 16.0 to 16.1.2 using the MacDirtyCow exploit. /nThe app now have a Troubleshoot section to restore the plist file. /niOS 15/14/13 are NOT and will never be supported, as this is NOT a tweak. /nIf you have one of the above listed iOS versions, please stay away from it cause it can bootloop your device.",
+      "screenshotURLs": [
+		"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/DynamicCow/1.png",
+		"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/DynamicCow/2.png",
+		"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/DynamicCow/3.png"
+      ],
+      "size": 915515,
+      "tintColor": "#bad7c8",
+      "version": "1.1",
+      "versionDate": "2023-03-2T14:00:00",
+      "versionDescription": "DynamicCow 1.1 is out with following changes:/n· Red bar is now finally fixed on iPhone XR/11./n· New settings view with a troubleshoot section is now available. Now you can reset your corrupted plist file and app state./n· 15x Faster then before."
     }
   ]
 }
