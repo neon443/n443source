@@ -65,16 +65,4 @@
       "versionDescription": "The project is still in beta, and there still quite a lot of bugs to fix & enhancements to make."
     }
   ],
-  "news": [
-    {
-      "appID": "com.leemin.cowabunga",
-      "caption": "Cowabunga 8.1.1 - UPDATE NOW TO PREVENT BOOTLOOP",
-      "date": "2023-03-02",
-      "identifier": "Cowabunga-8.1.1-available",
-      "imageURL": "",
-      "notify": false,
-      "tintColor": "54c812",
-      "title": "Cowabunga update Available"
-    }
-  ]
 }
