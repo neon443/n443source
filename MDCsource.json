@@ -9,7 +9,7 @@
       "bundleIdentifier": "com.leemin.Cowabunga",
       "developerName": "leminlimez",
       "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
-      "iconURL": "https://user-images.githubusercontent.com/52459150/215552092-9dc1e029-da35-43da-867f-17279e3dc180.png",
+      "iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/icon.png",
       "subtitle": "A jailed MDC Toolbox app",
       "localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 & 16.0-16.1.2 using CVE-2022-46689.",
       "screenshotURLs": [
@@ -52,7 +52,7 @@
       "caption": "Cowabunga 8.1.1 - UPDATE NOW TO PREVENT BOOTLOOP",
       "date": "2023-03-02",
       "identifier": "Cowabunga-8.1.1-available",
-      "imageURL": "https://user-images.githubusercontent.com/705880/65604130-c1ec0800-df5b-11e9-8150-7657c474e3c3.png",
+      "imageURL": "",
       "notify": false,
       "tintColor": "54c812",
       "title": "Cowabunga update Available"
