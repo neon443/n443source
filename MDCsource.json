@@ -8,7 +8,7 @@
 			"beta": false,
 			"bundleIdentifier": "com.leemin.Cowabunga",
 			"developerName": "leminlimez",
-			"downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.1/Cowabunga.ipa",
+			"downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v8.1.2/Cowabunga.ipa",
 			"iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/Cowabunga/icon.png",
 			"subtitle": "A jailed MDC Toolbox app",
 			"localizedDescription": "A Jailed toolbox application for iOS 14.0-15.7.1 & 16.0-16.1.2 using CVE-2022-46689.",
@@ -24,9 +24,9 @@
 			],
 			"size": 21849921,
 			"tintColor": "#45c812",
-			"version": "8.1.1",
+			"version": "8.1.2",
 			"versionDate": "2023-03-2T14:00:00",
-			"versionDescription": "Added creating operations. Fixed crash when a custom operation corrupts - hopefully will figure out cause for corruption. Fixed bootloop with regard to resetting icon cache. Please update, this is an important fix. Not only does it stop a bootloop, but it should hopefully increase reliability of applying."
+			"versionDescription": "Cross compatibility between FileSwitcherPro and Cowabunga custom operations (importing .fsp files). Safety implementations to importing custom operations: Imported operations are now disabled by default. Added warning for if an imported operation edits /var. Fixed resetting icon cache stuck on scheduling"
 		},
 		{
 			"name": "FilzaEscaped",
