@@ -49,7 +49,7 @@
 		{
 			"name": "SantanderEscaped",
 			"beta": true,
-			"bundleIdentifier": "com.haxi0.santander",
+			"bundleIdentifier": "org.haxi0.santander",
 			"developerName": "haxi0",
 			"downloadURL": "https://github.com/haxi0/SantanderEscaped/releases/download/0.4/SantanderEscaped-0.4.ipa",
 			"iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/SantanderEscaped/icon.png",
