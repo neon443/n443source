@@ -105,13 +105,13 @@
 			"name": "ControlConfig",
 			"beta": false,
 			"developerName": "BomberFish",
-			"bundleIdentifier": "com.f1shy-dev.ResSet16",
+			"bundleIdentifier": "com.f1shy-dev.ControlConfig",
 			"downloadURL": "https://github.com/BomberFish/ControlConfig/releases/download/0.1.0/ControlConfig-0.1.0-alpha.ipa",
-			"iconURL": "A tool to change size and functionality of Control Center tiles.",
-			"subtitle": "",
+			"iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/ControlConfig/icon.png",
+			"subtitle": "A tool to change size and functionality of Control Center tiles.",
 			"localizedDescription": "A tool to change size and functionality of Control Center tiles.",
 			"screenshotURLs": [
-				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/ControlConfig/9.png"
+				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/TrollBox16/1.png"
 			],
 			"size": 760000,
 			"tintColor": "#9025fa",
