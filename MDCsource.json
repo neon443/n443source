@@ -47,45 +47,26 @@
 			"versionDescription": "First release."
 		},
 		{
-			"name": "SantanderEscaped",
+			"name": "AppCommander",
 			"beta": true,
-			"bundleIdentifier": "org.haxi0.santander",
-			"developerName": "haxi0",
-			"downloadURL": "https://github.com/haxi0/SantanderEscaped/releases/download/0.4/SantanderEscaped-0.4.ipa",
-			"iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/SantanderEscaped/icon.png",
-			"subtitle": "A File Manager for iOS with full file access.",
-			"localizedDescription": "A new, enhanced File Manager for iOS devices with the tccd exploit for full file access. Santander aims to enhance the experience of a file manager on an iOS device, using modern and familiar UI alongside new APIs.",
+			"bundleIdentifier": "ca.bomberfish.AppCommander",
+			"developerName": "BomberFish",
+			"downloadURL": "https://github.com/BomberFish/AppCommander/releases/download/v0.1-beta.3/AppCommander.0.1.Beta.3.ipa",
+			"iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/AppCommander/icon.png",
+			"subtitle": "A swiss army knife for your iPhone apps.",
+			"localizedDescription": "A swiss army knife for your iPhone apps.",
 			"screenshotURLs": [
-				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/SantanderEscaped/1.png"
+				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/AppCommander/1.png"
 			],
 			"size": 4682000,
-			"tintColor": "#489be8",
-			"version": "0.4",
+			"tintColor": "#ac2bcc",
+			"version": "0.1b3",
 			"versionDate": "2023-03-2T14:00:00",
-			"versionDescription": "The project is still in beta, and there still quite a lot of bugs to fix & enhancements to make."
-		},
-		{
-			"name": "ResSet16",
-			"beta": false,
-			"bundleIdentifier": "net.sourceloc.ResSet16",
-			"developerName": "sourcelocation",
-			"downloadURL": "https://github.com/sourcelocation/ResSet16/releases/download/1.1.3/ResSet16-1.1.3.ipa",
-			"iconURL": "https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/ResSet16/icon.png",
-			"subtitle": "Set screen resolution on iOS 15.0 - iOS 16.1.2 to anything you like!",
-			"localizedDescription": "Set screen resolution on iOS 15.0 - iOS 16.1.2 to anything you like! 100% safe. Reboot to revert changes.",
-			"screenshotURLs": [
-				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/ResSet16/1.png",
-				"https://raw.githubusercontent.com/puffycheezball8/MacDirtyCow-AltSource/main/ResSet16/2.png"
-			],
-			"size": 760000,
-			"tintColor": "#fba417",
-			"version": "1.1.3",
-			"versionDate": "2023-03-2T14:00:00",
-			"versionDescription": "Bug fixes."
+			"versionDescription": "Hopefully fix the unsandboxing error. Also added a reboot device button to error dialog just in case things go south."
 		},
 		{
 			"name": "TollBox16",
-			"beta": true,
+			"beta": false,
 			"bundleIdentifier": "live.cclerc.trollbox",
 			"developerName": "c22dev",
 			"downloadURL": "https://github.com/c22dev/TrollBox/releases/download/0.1/TrollBox16.ipa",
