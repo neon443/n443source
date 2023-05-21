@@ -32,4 +32,4 @@ https://github.com/c22dev/TrollBox/
 A tool to change size and functionality of Control Center tiles.
 https://github.com/BomberFish/ControlConfig
 
-## If you would like me to add an app, or you find an update I missed, please create an issue.
+## If you would like me to add an app, or you find an update I missed, please [create an issue](https://github.com/neon443/MacDirtyCow-AltSource/issues/new).
