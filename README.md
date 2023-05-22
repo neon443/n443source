@@ -1,6 +1,6 @@
 # MacDirtyCow AltSource
 
-### Add https://raw.githubusercontent.com/neon443/MacDirtyCow-AltSource/main/MDCsource.json to your sources list
+### Add https://neon443.github.io/MDCsource to your sources list
 
 I created this AltSource because there was a stunning lack of AltStore sources that contained all of our favourite MacDirtyCow apps. 
 
