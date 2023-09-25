@@ -1,8 +1,5 @@
 # n443source
-
-### Add https://neon443.github.io/n443source to your sources list
-
-I created this AltSource because there was a stunning lack of AltStore sources that contained all of our favourite MacDirtyCow apps. 
+##### Add https://neon443.github.io/n443source to your sources list
 
 ## Apps included
 
