@@ -1,5 +1,9 @@
 # n443source
-##### Add https://neon443.github.io/n443source to your sources list
+Add https://neon443.github.io/n443source to your sources list
+
+### One click:
+[AltStore](altstore://source?url=https://neon443.GitHub.io/n443source/)
+[SideStore](sidestore://source?url=https://neon443.GitHub.io/n443source/)
 
 ## Apps included
 
